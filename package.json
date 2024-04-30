@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3",
+    "node-modules": "^1.0.1",
+    "nodemon": "^3.1.0"
+  }
+}
